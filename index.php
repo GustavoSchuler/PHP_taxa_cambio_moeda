@@ -42,7 +42,7 @@
 
 	} else {
 
-		echo $CotacaoMoedaWS->error;
+		echo $quotation->error;
 
 	}
 
